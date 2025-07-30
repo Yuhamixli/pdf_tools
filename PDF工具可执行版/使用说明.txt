@@ -1,0 +1,33 @@
+# PDF Tools Executable Version Usage
+
+## Usage Methods
+
+### Method 1: Use Launcher (Recommended)
+1. Double-click `启动器.bat`
+2. Select the tool you want to use
+
+### Method 2: Direct Launch
+- Double-click `PDF工具.exe` - Main Launcher
+- Double-click `PDF合并工具.exe` - Folder Mode
+- Double-click `PDF拖放合并.exe` - Drag Drop Mode
+- Double-click `PDF命令行合并.exe` - Command Line Mode
+- Double-click `PDF文件合并.exe` - File List Mode
+
+## System Requirements
+- Windows 7/8/10/11
+- No Python installation required
+- No dependencies required
+
+## File Description
+- PDF工具.exe - Main Launcher (Recommended)
+- PDF合并工具.exe - Folder Mode Merger
+- PDF拖放合并.exe - Drag Drop Mode Merger
+- PDF命令行合并.exe - Command Line Mode
+- PDF文件合并.exe - File List Mode
+- 启动器.bat - Tool Selection Launcher
+
+## Features
+- Completely independent, no software installation required
+- Plug and play, double-click to run
+- Supports all Windows systems
+- Green and environmentally friendly, no residue
